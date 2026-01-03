@@ -232,9 +232,6 @@ When you open an assignment, check:
 - **Rubric**
 - Allowed resources / collaboration notes
 
-Notes:
-- Show Tech Setup Lab.
-- Point out “what to do” vs “what to submit.”
 
 
 ---
@@ -242,7 +239,9 @@ Notes:
 
 ## Submissions
 
-- Carefully follow 
+<br>
+
+- IMPORTANT: Carefully follow deliverable instructions!
 
 
 ---
@@ -251,15 +250,10 @@ Notes:
 
 You should know how to find:
 - Score
-- Rubric marks
+- Rubric marks (where applicable)
 - Inline comments
-- TA feedback attachments (if used)
 
 **Rule:** treat feedback as a free tutor—use it before the next submission.
-
-Notes:
-- Show one example feedback view.
-- Explain typical turnaround expectations.
 
 
 ---
@@ -278,9 +272,6 @@ Notes:
 - Reusing prior-term solutions
 - Submitting AI-generated solutions as your own (see AI policy)
 
-Notes:
-- Define “substantially identical” clearly.
-- Encourage early questions to avoid last-minute desperation.
 
 ---
 
@@ -297,12 +288,7 @@ Notes:
 - Write project narrative as if it were your work
 - Use AI during quizzes/exams (unless explicitly permitted)
 
-**Attribution (recommended)**
-- If AI was used, include a short “AI assistance” note: what you asked, what you used, what you changed.
 
-Notes:
-- Align this slide with your department policy.
-- Give 1–2 realistic “OK” and “Not OK” scenarios.
 
 ---
 
@@ -315,8 +301,6 @@ Strong students typically:
 - Attend TA hours early when stuck
 - Read and apply feedback before the next submission
 
-Notes:
-- Emphasize consistent cadence > heroic last-minute effort.
 
 ---
 
@@ -334,8 +318,7 @@ Notes:
 - Ask targeted questions with screenshots/logs
 - Submit partial but correct work rather than nothing
 
-Notes:
-- Keep tone supportive but candid.
+
 
 ---
 
@@ -354,12 +337,11 @@ If you fall behind:
 - Post: conceptual clarifications
 - Email: grades, accommodations, personal circumstances
 
-Notes:
-- Give a template message students can copy.
+
 
 ---
 
-## Checkpoint (not fluff): readiness verification
+## Checkpoint 
 
 **Quick poll**
 - Which tool worries you most?
@@ -369,36 +351,26 @@ Notes:
   - Time management
   - Project
 
-**Micro-task (choose one)**
-- A: run `SELECT 1;` and paste output
-- B: find Tech Setup Lab and paste submission requirements
-- C: download starter files and confirm filenames
 
-Notes:
-- Make this the “attendance credit” if desired.
+
 
 ---
 
 ## What happens next (Week 1 checklist)
 
 Do these in order:
-1. Configure LMS notifications (announcements + due dates)
-2. Complete Tech Setup Lab steps
-3. Verify database access (`SELECT 1;`)
-4. Identify TA hours and add to calendar
-5. Preview Week 2 topics so you know what’s coming
+1. Check Canvas access and read syllabus
+2. Start readings
 
-Notes:
-- Tell them where the Week 1 checklist lives in the LMS.
 
 ---
 
 ## First deadline 
 
-**First required deadline:** **[DATE] at 11:59 PM Pacific Time**  
+**First required deadline:** **Jan 13 at 11:59 PM Pacific Time**  
 (Tue of Week 2)
 
-**Where to verify dates:** LMS assignment page + course calendar.
+**Where to verify dates:** Canvase assignment page + course calendar.
 
 
 ---
@@ -406,9 +378,3 @@ Notes:
 ## Q&A
 
 Ask now so you don’t lose time later.
-
-**Closing assurance**
-- If you complete the Week 1 readiness check by **Tue 11:59 PM PT**, you will be set up for Week 2.
-
-Notes:
-- End with clarity: what to do first, where to go, and the next deadline.
