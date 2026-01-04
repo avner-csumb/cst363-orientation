@@ -43,6 +43,8 @@ Get you set up, reduce avoidable friction, and make Week 1 efficient.
 
 ## Who we are + how to reach us 
 
+<div class="p-2">
+
 <v-click>
 
 **Instructor**
@@ -62,6 +64,9 @@ Get you set up, reduce avoidable friction, and make Week 1 efficient.
 - TA hours TBD
 
 </v-click>
+
+
+</div>
 
 
 ---
@@ -127,11 +132,9 @@ This is an accelerated, tool-heavy course:
 
 ---
 
-
 ## How “online” works here
 
 <div class="p-2">
-
 
 **Asynchronous**
 - Weekly instruction, readings/videos
@@ -150,6 +153,8 @@ This is an accelerated, tool-heavy course:
 
 ## Time expectations
 
+<div class="p-2">
+
 Typical successful student: **15–20 hours/week**
 - 4-5 hrs: instruction/videos/readings
 - 4–6 hrs: labs/homeworks
@@ -158,10 +163,14 @@ Typical successful student: **15–20 hours/week**
 
 If you are new to SQL, plan toward the upper end.
 
+</div>
+
 
 ---
 
 ## Major work (1 of 2)
+
+<div class="p-2">
 
 **Weekly labs**
 - Tool fluency + applied practice
@@ -172,11 +181,14 @@ If you are new to SQL, plan toward the upper end.
 **SQL homeworks**
 - Deeper query construction and correctness
 
+</div>
 
 
 ---
 
 ## Major work (2 of 2)
+
+<div class="p-2">
 
 **Python homeworks**
 - Data-structure thinking that supports DB internals and reasoning
@@ -190,12 +202,16 @@ If you are new to SQL, plan toward the upper end.
 **Project**
 - Published Week 5; due Thursday of Week 8, 11:59 PM
 
+</div>
+
 
 
 ---
 
-
 ## Timeline anchors (8-week view)
+
+
+<div class="p-2">
 
 - **Week 1:** onboarding + basic SQL + Tech Setup Lab
 - **Week 2:** predicates / NULLs / constraints
@@ -206,10 +222,13 @@ If you are new to SQL, plan toward the upper end.
 - **Week 7:** MongoDB + Redis + project integration
 - **Week 8:** review + **project submission** + **final**
 
+</div>
+
 ---
 
-
 ## Modules: the weekly pattern
+
+<div class="p-2">
 
 Each week module typically contains:
 1. Instruction (what to do first)
@@ -219,6 +238,7 @@ Each week module typically contains:
 5. Homework
 6. Submission checklist
 
+</div>
 
 
 ---
@@ -226,12 +246,15 @@ Each week module typically contains:
 
 ## Assignments: what to read first
 
+<div class="p-2">
+
 When you open an assignment, check:
 - **Due date/time zone**
 - **What to submit** (file(s), format, naming)
 - **Rubric**
 - Allowed resources / collaboration notes
 
+</div>
 
 
 ---
@@ -248,6 +271,9 @@ When you open an assignment, check:
 
 ## Gradebook + feedback: where the learning is
 
+<div class="p-2">
+
+
 You should know how to find:
 - Score
 - Rubric marks (where applicable)
@@ -255,10 +281,15 @@ You should know how to find:
 
 **Rule:** treat feedback as a free tutor—use it before the next submission.
 
+</div>
+
 
 ---
 
 ## Integrity: collaboration vs cheating
+
+<div class="p-2">
+
 
 **Allowed**
 - Discuss concepts and approaches
@@ -272,10 +303,15 @@ You should know how to find:
 - Reusing prior-term solutions
 - Submitting AI-generated solutions as your own (see AI policy)
 
+</div>
+
 
 ---
 
 ## AI use: explicit boundaries (important)
+
+<div class="p-2">
+
 
 **Allowed examples**
 - Explain an error message
@@ -288,11 +324,14 @@ You should know how to find:
 - Write project narrative as if it were your work
 - Use AI during quizzes/exams (unless explicitly permitted)
 
+</div>
 
 
 ---
 
 ## How to succeed (what strong students do)
+
+<div class="p-2">
 
 Strong students typically:
 - Start on **Wednesday or Thursday**, not Tuesday night
@@ -301,10 +340,14 @@ Strong students typically:
 - Attend TA hours early when stuck
 - Read and apply feedback before the next submission
 
+</div>
+
 
 ---
 
 ## Common failure points (and how to avoid them)
+
+<div class="p-2">
 
 **Failure points**
 - Week 1 setup not completed
@@ -318,11 +361,15 @@ Strong students typically:
 - Ask targeted questions with screenshots/logs
 - Submit partial but correct work rather than nothing
 
+</div>
+
 
 
 ---
 
 ## Recovery plan (if you fall behind)
+
+<div class="p-2">
 
 If you fall behind:
 1. Attend the next TA session
@@ -334,47 +381,63 @@ If you fall behind:
    - screenshot/log
 
 **When to post publicly vs email**
-- Post: conceptual clarifications
-- Email: grades, accommodations, personal circumstances
+- Post on Slack channel: conceptual clarifications
+- Email or Slack DM: grades, accommodations, personal circumstances
 
+</div>
 
 
 ---
 
 ## Checkpoint 
 
+<div class="p-2">
+
 **Quick poll**
-- Which tool worries you most?
-  - LMS navigation
-  - PostgreSQL access
+- Which tool (if any) worries you most?
+  - Using Canvas
+  - Development environment setup
   - SQL syntax/joins
   - Time management
   - Project
 
-
+</div>
 
 
 ---
 
 ## What happens next (Week 1 checklist)
 
+<div class="p-2">
+
 Do these in order:
 1. Check Canvas access and read syllabus
 2. Start readings
+
+</div>
 
 
 ---
 
 ## First deadline 
 
+<div class="p-2">
+
 **First required deadline:** **Jan 13 at 11:59 PM Pacific Time**  
 (Tue of Week 2)
 
-**Where to verify dates:** Canvase assignment page + course calendar.
+**Where to verify dates:** Canvas assignment page + course calendar.
+
+</div>
 
 
 ---
 
 ## Q&A
 
+<div class="p-2">
+
 Ask now so you don’t lose time later.
+
+
+</div>
