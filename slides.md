@@ -1,6 +1,6 @@
 ---
 # try also 'default' to start simple
-theme: default
+theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
@@ -132,7 +132,10 @@ This is an accelerated, tool-heavy course:
 
 ## Weekly rhythm 
 
-<div class="p-2">
+<div class="p-5">
+
+
+<v-click>
 
 
 **Every week**
@@ -140,9 +143,21 @@ This is an accelerated, tool-heavy course:
 - **Thu:** faculty office hours (demos, problem-solving, Q&A)
 - **Tue 11:59 PM:** prior week’s work due
 
+
+</v-click>
+
+
+<v-click>
+
+
+
 **Week 8 exception (short week)**
 - Project due Thurs 11:59 PM
 - Final “everything due” Fri 11:59 PM
+
+</v-click>
+
+
 
 
 </div>
@@ -151,18 +166,33 @@ This is an accelerated, tool-heavy course:
 
 ## How “online” works here
 
-<div class="p-2">
+<div class="p-5">
+
+<v-click>
+
 
 **Asynchronous**
 - Weekly instruction, readings/videos
 - Labs, quizzes, homeworks
 - Project work
 
+</v-click>
+
+<v-click>
+
+
 **Synchronous (recommended)**
 - Thursday live session / office hours (recorded)
 
+</v-click>
+
+<v-click>
+
 **Support**
-- TA hours (likely Tue/Thu evenings)
+- TA hours (likely Sunday / Tues evenings)
+
+</v-click>
+
 
 </div>
 
@@ -170,7 +200,7 @@ This is an accelerated, tool-heavy course:
 
 ## Time expectations
 
-<div class="p-2">
+<div class="p-5">
 
 Typical successful student: **15–20 hours/week**
 - 4-5 hrs: instruction/videos/readings
@@ -187,16 +217,34 @@ If you are new to SQL, plan toward the upper end.
 
 ## Major work (1 of 2)
 
-<div class="p-2">
+<div class="p-5">
+
+<v-click>
+
 
 **Weekly labs**
 - Tool fluency + applied practice
 
+
+</v-click>
+
+
+<v-click>
+
+
 **Weekly quizzes**
 - Retrieval practice (prevents cramming)
 
+</v-click>
+
+
+<v-click>
+
 **SQL homeworks**
 - Deeper query construction and correctness
+
+</v-click>
+
 
 </div>
 
@@ -205,19 +253,44 @@ If you are new to SQL, plan toward the upper end.
 
 ## Major work (2 of 2)
 
-<div class="p-2">
+<div class="p-5">
+
+<v-click>
+
+
 
 **Python homeworks**
 - Data-structure thinking that supports DB internals and reasoning
 
+</v-click>
+
+
+<v-click>
+
+
 **Midterm**
 - SQL mastery checkpoint (end of Week 4)
+
+</v-click>
+
+
+<v-click>
+
 
 **Final**
 - Cumulative, review-based (end of Week 7)
 
+</v-click>
+
+
+<v-click>
+
+
 **Project**
 - Published Week 5; due Thursday of Week 8, 11:59 PM
+
+</v-click>
+
 
 </div>
 
@@ -228,7 +301,9 @@ If you are new to SQL, plan toward the upper end.
 ## Timeline anchors (8-week view)
 
 
-<div class="p-2">
+<div class="p-5">
+
+<v-clicks>
 
 - **Week 1:** onboarding + basic SQL + Tech Setup Lab
 - **Week 2:** predicates / NULLs / constraints
@@ -239,21 +314,30 @@ If you are new to SQL, plan toward the upper end.
 - **Week 7:** MongoDB + Redis + project integration
 - **Week 8:** review + **project submission** + **final**
 
+</v-clicks>
+
 </div>
 
 ---
 
 ## Modules: the weekly pattern
 
-<div class="p-2">
+<div class="p-5">
 
 Each week module typically contains:
+
+<v-clicks>
+
+
 1. Instruction (what to do first)
 2. Read/watch
 3. Lab
 4. Quiz
 5. Homework
 6. Submission checklist
+
+</v-clicks>
+
 
 </div>
 
@@ -263,7 +347,7 @@ Each week module typically contains:
 
 ## Assignments: what to read first
 
-<div class="p-2">
+<div class="p-5">
 
 When you open an assignment, check:
 - **Due date/time zone**
@@ -288,7 +372,7 @@ When you open an assignment, check:
 
 ## Gradebook + feedback: where the learning is
 
-<div class="p-2">
+<div class="p-5">
 
 
 You should know how to find:
@@ -305,7 +389,9 @@ You should know how to find:
 
 ## Integrity: collaboration vs cheating
 
-<div class="p-2">
+<div class="p-5">
+
+<v-click>
 
 
 **Allowed**
@@ -314,11 +400,18 @@ You should know how to find:
 - Help someone understand an error
 - Review each other’s work at a high level (no copying)
 
+</v-click>
+
+<v-click>
+
 **Not allowed**
 - Sharing solution SQL/code
 - Posting screenshots of answers
 - Reusing prior-term solutions
 - Submitting AI-generated solutions as your own (see AI policy)
+
+</v-click>
+
 
 </div>
 
@@ -327,7 +420,9 @@ You should know how to find:
 
 ## AI use: explicit boundaries (important)
 
-<div class="p-2">
+<div class="p-5">
+
+<v-click>
 
 
 **Allowed examples**
@@ -336,10 +431,17 @@ You should know how to find:
 - Brainstorm test cases
 - Ask for conceptual explanations
 
+</v-click>
+
+<v-click>
+
+
 **Not allowed examples**
 - Generate full solutions to graded labs/homeworks
 - Write project narrative as if it were your work
 - Use AI during quizzes/exams (unless explicitly permitted)
+
+</v-click>
 
 </div>
 
@@ -348,14 +450,21 @@ You should know how to find:
 
 ## How to succeed (what strong students do)
 
-<div class="p-2">
+<div class="p-5">
 
 Strong students typically:
+
+<v-clicks>
+
+
 - Start on **Wednesday or Thursday**, not Tuesday night
 - Use two blocks: **build** (lab) + **polish** (submit/verify)
 - Keep a “SQL patterns” notebook (joins, group-by, EXISTS, CTEs)
 - Attend TA hours early when stuck
 - Read and apply feedback before the next submission
+
+</v-clicks>
+
 
 </div>
 
@@ -364,7 +473,7 @@ Strong students typically:
 
 ## Common failure points (and how to avoid them)
 
-<div class="p-2">
+<div class="p-5">
 
 **Failure points**
 - Week 1 setup not completed
@@ -397,9 +506,17 @@ If you fall behind:
    - the exact error
    - screenshot/log
 
+
+<v-click>
+
+
 **When to post publicly vs email**
 - Post on Slack channel: conceptual clarifications
 - Email or Slack DM: grades, accommodations, personal circumstances
+
+</v-click>
+
+
 
 </div>
 
@@ -425,7 +542,7 @@ If you fall behind:
 
 ## What happens next (Week 1 checklist)
 
-<div class="p-2">
+<div class="p-5">
 
 Do these in order:
 1. Check Canvas access and read syllabus
@@ -438,7 +555,7 @@ Do these in order:
 
 ## First deadline 
 
-<div class="p-2">
+<div class="p-5">
 
 **First required deadline:** **May 5 at 11:59 PM Pacific Time**  
 (Tue of Week 2)
@@ -452,7 +569,7 @@ Do these in order:
 
 ## Q&A
 
-<div class="p-2">
+<div class="p-5">
 
 Ask now so you don’t lose time later.
 
