@@ -29,32 +29,15 @@ Orientation (8-week online)
 ---
 
 ## Orientation Purpose
+
 Get you set up, reduce avoidable friction, and make Week 1 efficient.
 
-
-<div class="p-5">
-
-
-
-<v-click>
-
 **Today you will:**
-
-</v-click>
-
-
-<v-clicks>
-
 - Understand the weekly rhythm (Wed release / Thu live / Tue due)
 - Find everything on Canvas (modules, assignments, grades, feedback)
 - Verify database access and starter materials
 - Understand integrity and AI boundaries
 - Leave with a first-week checklist and the next deadline
-
-</v-clicks>
-
-
-</div>
 
 ---
 
@@ -440,7 +423,7 @@ Do these in order:
 
 <div class="p-2">
 
-**First required deadline:** **May 5 at 11:59 PM Pacific Time**  
+**First required deadline:** **Jan 13 at 11:59 PM Pacific Time**  
 (Tue of Week 2)
 
 **Where to verify dates:** Canvas assignment page + course calendar.
